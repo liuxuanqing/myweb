@@ -1,0 +1,29 @@
+#top_img{
+    width:1100px;
+    height:249px;
+    margin:0 auto;
+}
+#myPicture{
+    height:200px;
+    width:200px;
+    margin:0 auto;
+    position: relative;
+    left:-50px;
+}
+#myPicture img{
+    width:250px;
+    height:300px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#intro{
+    text-align: center;
+    margin-top:120px;
+    color: red;
+}
+.info{
+    position: absolute;
+    top:400px;
+    left:200px;
+    display: none;
+}
